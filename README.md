@@ -103,7 +103,7 @@ This project demonstrates my ability to build an interactive Business Intelligen
 The dashboard converts raw music data into an engaging analytical experience for exploring artists, songs, albums, popularity, and music trends.
 
 # 📸 Dashboard Snapshot
-
+https://github.com/gyashika172-beep/Spotify-Dashboard/blob/main/Spotify%20Snapshot.png
 
 # 👨‍💻 Skills Demonstrated
 
